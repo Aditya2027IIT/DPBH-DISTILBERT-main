@@ -1,10 +1,7 @@
 # Dark Pattern Buster
 
-This repository was created for the Dark Pattern Buster Hackathon conducted by IIT-BHU.
-
 ## Description
 
-We used data from a research paper accessible [here](https://www.kaggle.com/datasets/anantup/working-dp/data).
 
 We fine-tuned the DistilBERT model for classifying dark patterns into the following categories:
 
@@ -28,11 +25,7 @@ Our model is deployed using Flask and can be accessed through Docker.
 1. *Download and Set Up Docker Desktop:*
    - [Download Docker Desktop](https://www.docker.com/products/docker-desktop) and install it.
 
-2. *Clone the Repository:*
-   - Open your CLI and run:
-     bash
-     git clone https://github.com/Anant-Upadhyay/DPBH-DISTILBERT.git
-     
+2. *Clone the Repository:*     
 
 3. *Start Docker Compose:*
    - Navigate to the cloned repository directory and run:
